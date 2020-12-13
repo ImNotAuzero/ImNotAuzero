@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 # <h1><center> Hello, Hola, Geia Sas, I'm Liam 👋</center></h1>
 
 ## About me
-<h2><center>A simple developer</center></h2>
+I'm a simple developer
+I can program in Javascript, Python and a little bit of HTML & CSS.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ImNotAuzero&show_icons=true&theme=tokyonight)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotAuzero&theme=tokyonight)
-
-### I can program in Javascript, Python and a little bit of HTML & CSS.
