@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ImNotAuzero/ImNotAuzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# <h1><center> Hello, Hola, Geia Sas, I'm Liam 👋</center></h1>
+
+## About me
+<h2><center>A simple developer</center></h2>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ImNotAuzero&show_icons=true&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotAuzero&theme=tokyonight)
+
+### I can program in Javascript, Python and a little bit of HTML & CSS.
